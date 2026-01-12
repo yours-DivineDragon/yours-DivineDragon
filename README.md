@@ -33,7 +33,7 @@ Do private audits with [Hashlock](http://hashlock.com/)
 | № | Date    | Project      | Category             | Vulnerabilities | Report | Language  | Rank  |
 |---|---------|--------------|----------------------|-----------------|--------|-----------|-------|
 | 1 | 01.2025 | [Butter](https://immunefi.com/audit-competition/audit-comp-butter)    | Prediction Market    | 1 Insight  | 📑     | Solidity  | Top 5     |
-| 2 | 02.2025 | [Rova](https://audits.sherlock.xyz/contests/498)  | Toke Launchpad                | 1M         | 📑     | Solidity  | Top 3     |
+| 2 | 02.2025 | [Rova](https://audits.sherlock.xyz/contests/498)  | Token Launchpad                | 1M         | 📑     | Solidity  | Top 3     |
 | 3 | 06.2025 | [DoDo](https://audits.sherlock.xyz/contests/991)    | Cross-chain DEX    | 1H, 3M          | 📑     | Solidity  | -     |
 
 ### Team
