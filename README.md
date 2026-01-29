@@ -30,11 +30,12 @@ Do private audits with [Hashlock](http://hashlock.com/)
 
 ### Solo
 
-| № | Date    | Project      | Category             | Vulnerabilities | Report | Language  | Rank  |
+| № | Date    | Project      | Category             | Vulnerabilities | Language  | Rank  |
 |---|---------|--------------|----------------------|-----------------|--------|-----------|-------|
-| 1 | 01.2025 | [Butter](https://immunefi.com/audit-competition/audit-comp-butter)    | Prediction Market    | 1 Insight  | 📑     | Solidity  | Top 5     |
-| 2 | 02.2025 | [Rova](https://audits.sherlock.xyz/contests/498)  | Token Launchpad                | 1M         | 📑     | Solidity  | Top 3     |
-| 3 | 06.2025 | [DoDo](https://audits.sherlock.xyz/contests/991)    | Cross-chain DEX    | 1H, 3M          | 📑     | Solidity  | -     |
+| 1 | 01.2025 | [Butter](https://immunefi.com/audit-competition/audit-comp-butter)    | Prediction Market    | 1 Insight  | Solidity  | Top 5     |
+| 2 | 02.2025 | [Rova](https://audits.sherlock.xyz/contests/498)  | Token Launchpad                | 1M         | Solidity  | Top 3     |
+| 3 | 06.2025 | [DoDo](https://audits.sherlock.xyz/contests/991)    | Cross-chain DEX    | 1H, 3M          |  Solidity  | -     |
+| 4 | 10.2025 | [Belong](https://immunefi.com/audit-competition/audit-comp-belong/)    | GameFi    | 2C, 3M, 2 Insights  | Solidity  | Top 10     |
 
 ### Team
 
